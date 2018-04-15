@@ -1,0 +1,128 @@
+2018-04-14 10:20:55:249 [main] INFO   com.xmh.sell.SellApplication - Starting SellApplication on xieminghuideMBP.lan with PID 5501 (/Users/xieminghui/Downloads/sell/target/classes started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 10:20:55:269 [main] INFO   com.xmh.sell.SellApplication - No active profile set, falling back to default profiles: default
+2018-04-14 10:21:00:990 [main] INFO   com.xmh.sell.SellApplication - Started SellApplication in 6.779 seconds (JVM running for 7.649)
+2018-04-14 10:26:16:952 [main] INFO   com.xmh.sell.SellApplication - Starting SellApplication on xieminghuideMBP.lan with PID 5516 (/Users/xieminghui/Downloads/sell/target/classes started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 10:26:16:956 [main] INFO   com.xmh.sell.SellApplication - No active profile set, falling back to default profiles: default
+2018-04-14 10:26:22:268 [main] INFO   com.xmh.sell.SellApplication - Started SellApplication in 5.904 seconds (JVM running for 7.21)
+2018-04-14 10:29:03:612 [main] INFO   com.xmh.sell.SellApplication - Starting SellApplication on xieminghuideMBP.lan with PID 5523 (/Users/xieminghui/Downloads/sell/target/classes started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 10:29:03:616 [main] INFO   com.xmh.sell.SellApplication - No active profile set, falling back to default profiles: default
+2018-04-14 10:29:08:617 [main] INFO   com.xmh.sell.SellApplication - Started SellApplication in 5.584 seconds (JVM running for 6.773)
+2018-04-14 10:39:49:767 [main] INFO   com.xmh.sell.SellApplication - Starting SellApplication on xieminghuideMBP.lan with PID 5538 (/Users/xieminghui/Downloads/sell/target/classes started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 10:39:49:771 [main] INFO   com.xmh.sell.SellApplication - No active profile set, falling back to default profiles: default
+2018-04-14 10:39:56:094 [main] INFO   com.xmh.sell.SellApplication - Started SellApplication in 7.128 seconds (JVM running for 8.111)
+2018-04-14 11:40:54:056 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Starting OrderMasterDaoTest on xieminghuideMBP.lan with PID 5588 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 11:40:54:058 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - No active profile set, falling back to default profiles: default
+2018-04-14 11:41:42:113 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Starting OrderMasterDaoTest on xieminghuideMBP.lan with PID 5592 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 11:41:42:119 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - No active profile set, falling back to default profiles: default
+2018-04-14 11:44:40:886 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Starting OrderMasterDaoTest on xieminghuideMBP.lan with PID 5598 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 11:44:40:888 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - No active profile set, falling back to default profiles: default
+2018-04-14 11:44:49:030 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Started OrderMasterDaoTest in 9.539 seconds (JVM running for 11.369)
+2018-04-14 11:46:07:505 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Starting OrderMasterDaoTest on xieminghuideMBP.lan with PID 5601 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 11:46:07:506 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - No active profile set, falling back to default profiles: default
+2018-04-14 11:46:15:543 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Started OrderMasterDaoTest in 9.634 seconds (JVM running for 11.658)
+2018-04-14 11:46:55:897 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Starting OrderMasterDaoTest on xieminghuideMBP.lan with PID 5603 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 11:46:55:899 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - No active profile set, falling back to default profiles: default
+2018-04-14 11:47:04:909 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Started OrderMasterDaoTest in 10.583 seconds (JVM running for 12.694)
+2018-04-14 11:50:27:429 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Starting OrderMasterDaoTest on xieminghuideMBP.lan with PID 5608 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 11:50:27:430 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - No active profile set, falling back to default profiles: default
+2018-04-14 11:50:35:467 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Started OrderMasterDaoTest in 9.421 seconds (JVM running for 11.331)
+2018-04-14 11:53:17:993 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Starting OrderMasterDaoTest on xieminghuideMBP.lan with PID 5611 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 11:53:17:994 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - No active profile set, falling back to default profiles: default
+2018-04-14 11:53:26:467 [main] INFO   com.xmh.sell.dao.OrderMasterDaoTest - Started OrderMasterDaoTest in 10.003 seconds (JVM running for 12.134)
+2018-04-14 12:15:51:140 [main] INFO   com.xmh.sell.dao.OrderDetailDaoTest - Starting OrderDetailDaoTest on xieminghuideMBP.lan with PID 5630 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 12:15:51:142 [main] INFO   com.xmh.sell.dao.OrderDetailDaoTest - No active profile set, falling back to default profiles: default
+2018-04-14 12:16:00:952 [main] INFO   com.xmh.sell.dao.OrderDetailDaoTest - Started OrderDetailDaoTest in 11.467 seconds (JVM running for 13.438)
+2018-04-14 12:21:34:115 [main] INFO   com.xmh.sell.dao.OrderDetailDaoTest - Starting OrderDetailDaoTest on xieminghuideMBP.lan with PID 5656 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 12:21:34:118 [main] INFO   com.xmh.sell.dao.OrderDetailDaoTest - No active profile set, falling back to default profiles: default
+2018-04-14 12:21:42:576 [main] INFO   com.xmh.sell.dao.OrderDetailDaoTest - Started OrderDetailDaoTest in 11.128 seconds (JVM running for 13.544)
+2018-04-14 15:04:15:543 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5785 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 15:04:15:546 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 15:04:24:334 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 10.589 seconds (JVM running for 12.7)
+2018-04-14 15:06:32:638 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5787 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 15:06:32:640 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 15:06:40:969 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 9.837 seconds (JVM running for 11.702)
+2018-04-14 15:08:19:928 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5790 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 15:08:19:930 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 15:08:27:092 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.39 seconds (JVM running for 9.919)
+2018-04-14 15:08:58:444 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5792 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 15:08:58:446 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 15:09:05:408 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.274 seconds (JVM running for 9.717)
+2018-04-14 15:37:14:102 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5810 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 15:37:14:104 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 15:37:21:124 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.459 seconds (JVM running for 10.072)
+2018-04-14 15:37:21:408 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - [创建订单]result=OrderDTO(orderId=null, buyerName=谢明辉, buyerPhone=110110111, buyerAddress=广工, buyerOpenid=110110, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailList=[OrderDetail(detailId=59f449749d3843d287db9234a5c50337, orderId=db08d62952534ca094650d457fec845a, productId=123453, productName=芒果冰, productPrice=7.00, productQuantity=1, productIcon=www.baidu.com)])
+2018-04-14 15:42:58:475 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5814 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 15:42:58:477 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 15:43:06:036 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.894 seconds (JVM running for 10.558)
+2018-04-14 15:45:31:993 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5818 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 15:45:31:999 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 15:45:38:858 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.062 seconds (JVM running for 9.626)
+2018-04-14 15:48:02:415 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5821 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 15:48:02:416 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 15:48:09:951 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.946 seconds (JVM running for 10.47)
+2018-04-14 15:48:35:984 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5823 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 15:48:35:986 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 15:48:44:373 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 9.98 seconds (JVM running for 11.767)
+2018-04-14 16:00:00:807 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5835 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 16:00:00:812 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 16:00:09:696 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 10.323 seconds (JVM running for 12.582)
+2018-04-14 16:04:01:903 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5840 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 16:04:01:905 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 16:04:10:391 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 9.978 seconds (JVM running for 11.773)
+2018-04-14 16:05:31:104 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5843 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 16:05:31:125 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 16:05:38:083 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.2 seconds (JVM running for 9.752)
+2018-04-14 16:05:38:375 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - [创建订单]result=OrderDTO(orderId=null, buyerName=谢明辉, buyerPhone=110110111, buyerAddress=广工, buyerOpenid=110110, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailList=[OrderDetail(detailId=d90c0ca2d0f04b69aadfa71ae92c37b0, orderId=96d02783bbc448d98b85a21e650af133, productId=123453, productName=芒果冰, productPrice=7.00, productQuantity=1, productIcon=www.baidu.com), OrderDetail(detailId=377d96ca0c154d5ea85ed163239eca33, orderId=96d02783bbc448d98b85a21e650af133, productId=123456, productName=皮蛋粥, productPrice=3.20, productQuantity=2, productIcon=www.xxx.icon), OrderDetail(detailId=377d96ca0c154d5ea85ed163239eca33, orderId=96d02783bbc448d98b85a21e650af133, productId=123456, productName=皮蛋粥, productPrice=3.20, productQuantity=2, productIcon=www.xxx.icon)])
+2018-04-14 16:25:42:091 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5862 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 16:25:42:092 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 16:25:48:982 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.231 seconds (JVM running for 9.952)
+2018-04-14 16:25:49:266 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - [创建订单]result=OrderDTO(orderId=null, buyerName=谢明辉, buyerPhone=110110111, buyerAddress=广工, buyerOpenid=110110, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailList=[OrderDetail(detailId=e514adbf1f9b466b832897bdd542c461, orderId=f8c74c58450f4382826697f02cad7a82, productId=1234567, productName=皮皮虾, productPrice=3.20, productQuantity=10, productIcon=www.xxx.icon), OrderDetail(detailId=ee74d0d7122946df952856c7f742a906, orderId=f8c74c58450f4382826697f02cad7a82, productId=1234567, productName=皮皮虾, productPrice=3.20, productQuantity=10, productIcon=www.xxx.icon)])
+2018-04-14 17:03:51:481 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 5898 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 17:03:51:483 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 17:03:59:015 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 9.12 seconds (JVM running for 10.912)
+2018-04-14 17:03:59:443 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - [查询单个订单]result=OrderDTO(orderId=96d02783bbc448d98b85a21e650af133, buyerName=谢明辉, buyerPhone=110110111, buyerAddress=广工, buyerOpenid=110110, orderAmount=19.80, orderStatus=0, payStatus=1, createTime=2018-04-14 07:17:13.0, updateTime=2018-04-14 07:17:13.0, orderDetailList=[OrderDetail(detailId=377d96ca0c154d5ea85ed163239eca33, orderId=96d02783bbc448d98b85a21e650af133, productId=123456, productName=皮蛋粥, productPrice=3.20, productQuantity=2, productIcon=www.xxx.icon), OrderDetail(detailId=5e403e42523b4b09afc285c1790e37a9, orderId=96d02783bbc448d98b85a21e650af133, productId=123456, productName=皮蛋粥, productPrice=3.20, productQuantity=2, productIcon=www.xxx.icon), OrderDetail(detailId=d90c0ca2d0f04b69aadfa71ae92c37b0, orderId=96d02783bbc448d98b85a21e650af133, productId=123453, productName=芒果冰, productPrice=7.00, productQuantity=1, productIcon=www.baidu.com)])
+2018-04-14 17:06:30:241 [main] INFO   com.xmh.sell.SellApplication - Starting SellApplication on xieminghuideMBP.lan with PID 5900 (/Users/xieminghui/Downloads/sell/target/classes started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 17:06:30:247 [main] INFO   com.xmh.sell.SellApplication - No active profile set, falling back to default profiles: default
+2018-04-14 17:06:35:022 [main] INFO   com.xmh.sell.SellApplication - Started SellApplication in 5.575 seconds (JVM running for 6.669)
+2018-04-14 22:08:08:379 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6045 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 22:08:08:381 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 22:08:15:422 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.46 seconds (JVM running for 10.347)
+2018-04-14 22:08:38:051 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6047 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 22:08:38:057 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 22:08:47:000 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 10.472 seconds (JVM running for 12.618)
+2018-04-14 22:31:00:201 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6059 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 22:31:00:211 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 22:31:08:150 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 9.346 seconds (JVM running for 11.094)
+2018-04-14 22:38:25:930 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6065 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 22:38:25:931 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 22:38:32:899 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.295 seconds (JVM running for 9.818)
+2018-04-14 22:41:31:124 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6071 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 22:41:31:126 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 22:41:38:316 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.621 seconds (JVM running for 10.702)
+2018-04-14 22:49:32:256 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6077 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 22:49:32:258 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 22:49:38:941 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.087 seconds (JVM running for 9.669)
+2018-04-14 22:50:52:546 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6079 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 22:50:52:549 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 22:51:00:059 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 9.09 seconds (JVM running for 10.785)
+2018-04-14 22:53:22:773 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6082 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 22:53:22:774 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 22:53:30:377 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.964 seconds (JVM running for 10.639)
+2018-04-14 23:34:22:830 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6107 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 23:34:22:897 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 23:34:30:932 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 9.438 seconds (JVM running for 11.152)
+2018-04-14 23:35:12:211 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6109 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 23:35:12:214 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 23:35:19:309 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.354 seconds (JVM running for 10.071)
+2018-04-14 23:35:43:801 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6111 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 23:35:43:803 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 23:35:51:251 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.803 seconds (JVM running for 10.431)
+2018-04-14 23:36:50:072 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6113 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 23:36:50:073 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 23:36:57:150 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.329 seconds (JVM running for 10.023)
+2018-04-14 23:39:10:181 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6115 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 23:39:10:183 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 23:39:17:111 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.172 seconds (JVM running for 9.764)
+2018-04-14 23:40:57:041 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Starting OrderServiceImplTest on xieminghuideMBP.lan with PID 6118 (started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-14 23:40:57:044 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - No active profile set, falling back to default profiles: default
+2018-04-14 23:41:03:711 [main] INFO   com.xmh.sell.service.impl.OrderServiceImplTest - Started OrderServiceImplTest in 8.073 seconds (JVM running for 9.633)

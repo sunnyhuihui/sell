@@ -1,0 +1,3 @@
+2018-04-15 00:13:07:838 [main] INFO   com.xmh.sell.SellApplication - Starting SellApplication on xieminghuideMBP.lan with PID 6137 (/Users/xieminghui/Downloads/sell/target/classes started by xieminghui in /Users/xieminghui/Downloads/sell)
+2018-04-15 00:13:07:855 [main] INFO   com.xmh.sell.SellApplication - No active profile set, falling back to default profiles: default
+2018-04-15 00:13:12:124 [main] INFO   com.xmh.sell.SellApplication - Started SellApplication in 5.055 seconds (JVM running for 5.944)

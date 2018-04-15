@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<configuration>
+
+    <!--定义全局变量输出文件的根路径-->
+    <property name="log.filePath"  value="${catalina.base}/logs/sell"/>
+    <!--定义日志输出格式-->
+    <property name="log.pattern" value="%d{yyyy-MM-dd HH:mm:ss:SSS} [%thread] %-5level  %logger{50} - %msg%n"/>
+    <!--定义日志的保存时间-->
+    <property name="log.maxHistory"  value="50"/>
+
+
+    <!--定义控制台的输出-->
+    <appender name="consoleLog" class="ch.qos.logback.core.ConsoleAppender">
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <pattern>
+                %d - %msg%n
+            </pattern>
+        </layout>
+    </appender>
+
+
+    <!--定义info级别的输出-->
+    <appender name="infoLog" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!--日志过滤，只打印匹配的级别-->
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>INFO</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+        <encoder>
+            <!--日志输出格式-->
+            <pattern>
+                ${log.pattern}
+            </pattern>
+        </encoder>
+        <!-- 文件路径 -->
+        <file>${log.filePath}/info.log</file>
+        <!--滚动策略-->
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- 文件名称 前一天的文件会被压缩 -->
+            <fileNamePattern>
+                ${log.filePath}/info/info.%d{yyyy-MM-dd}.%i.log.zip
+            </fileNamePattern>
+
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <!--最大的文件数量-->
+                <maxFileSize>1024MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+            <!-- 文件最大保存时间 -->
+            <maxHistory>${log.maxHistory}</maxHistory>
+        </rollingPolicy>
+    </appender>
+
+
+    <!--定义debug级别的输出-->
+    <appender name="debugLog" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!--日志过滤，只打印匹配的级别-->
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>BEBUG</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+        <encoder>
+            <!--日志输出格式-->
+            <pattern>
+                ${log.pattern}
+            </pattern>
+        </encoder>
+        <!-- 文件路径 -->
+        <file>${log.filePath}/debug.log</file>
+        <!--滚动策略-->
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- 文件名称 前一天的文件会被压缩 -->
+            <fileNamePattern>
+                ${log.filePath}/debug/debug.%d{yyyy-MM-dd}.%i.log.zip
+            </fileNamePattern>
+
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <!--最大的文件数量-->
+                <maxFileSize>1024MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+            <!-- 文件最大保存时间 -->
+            <maxHistory>${log.maxHistory}</maxHistory>
+        </rollingPolicy>
+    </appender>
+
+
+
+    <!--定义error级别的输出-->
+    <appender name="errorLog" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!--日志过滤，只打印匹配的级别-->
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>ERROR</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+        <encoder>
+            <!--日志输出格式-->
+            <pattern>
+                ${log.pattern}
+            </pattern>
+        </encoder>
+        <!-- 文件路径 -->
+        <file>${log.filePath}/error.log</file>
+        <!--滚动策略-->
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- 文件名称 前一天的文件会被压缩 -->
+            <fileNamePattern>
+                ${log.filePath}/error/error.%d{yyyy-MM-dd}.%i.log.zip
+            </fileNamePattern>
+
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <!--最大的文件数量-->
+                <maxFileSize>1024MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+            <!-- 文件最大保存时间 -->
+            <maxHistory>${log.maxHistory}</maxHistory>
+        </rollingPolicy>
+    </appender>
+
+
+    <!--
+    控制特定类的特定级别
+    <logger name="org.apache.catalina.startup.DigesterFactory" level="ERROR"/>
+    -->
+    <!--这里我指定本项目的级别是info -->
+    <logger name="com.xmh.sell" level="info" additivity="true">
+        <appender-ref ref="infoLog"/>
+        <appender-ref ref="debugLog"/>
+        <appender-ref ref="errorLog"/>
+    </logger>
+
+    <!--全局的日志级别  一般正对控制台-->
+    <root level="info">
+        <appender-ref ref="consoleLog"/>
+    </root>
+
+
+</configuration>
